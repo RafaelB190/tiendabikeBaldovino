@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TiendabikeApplication<tiendabike>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.BaldovinoPFjava.tiendabike.TiendabikeApplication",
+      "projectName": "tiendabike",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
